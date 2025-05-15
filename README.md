@@ -12,10 +12,10 @@ This Python program is a comprehensive Drilling Equipment Management System that
 ### B1. User Authentication
 - Secure registration with email validation (@gmail.com required)
 - Password requirements:
-- - Minimum 6 characters
-- - Must contain letters and numbers
-- - Must have uppercase and lowercase
-- - No consecutive repeating characters
+  - Minimum 6 characters
+  - Must contain letters and numbers
+  - Must have uppercase and lowercase
+  - No consecutive repeating characters
 
 ### B2. Equipment Management
 - View all equipment in a formatted table
